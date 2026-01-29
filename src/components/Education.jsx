@@ -22,6 +22,7 @@ export default function Education() {
               B.Tech – Computer Science and Design
             </h3>
             <p className="text-gray-400 text-sm">2023 – 2027</p>
+            <p className='mt-2 text-gray-400 text-sm'>CGPA: 8.15</p>
             <p className="mt-2">
               Bannari Amman Institute of Technology
             </p>
@@ -34,6 +35,7 @@ export default function Education() {
               Higher Secondary Education (HSC)
             </h3>
             <p className="text-gray-400 text-sm">2021 – 2023</p>
+             <p className='mt-2 text-gray-400 text-sm'>87.16%</p>
             <p className="mt-2">
               Srinivasa Vidhayalaya Higher Secondary School
             </p>
@@ -46,6 +48,7 @@ export default function Education() {
               Secondary School (SSLC)
             </h3>
             <p className="text-gray-400 text-sm">2019 – 2020</p>
+                         <p className='mt-2 text-gray-400 text-sm'>85.4%</p>
             <p className="mt-2">
               VAV School
             </p>

@@ -4,17 +4,17 @@ import profile from "../assets/profile.jpeg"
 
 export default function Home() {
 return (
-<section id="home" className="min-h-screen flex items-center justify-center">
+<section id="home" className="pt-24 pb-16 flex items-center justify-center">
 <motion.div
   initial={{ opacity: 0, y: 80 }}
   animate={{
     opacity: 1,
-    y: [0, -12, 0],   // floating up & down
+    y: [1, -16, 2],   // floating up & down
   }}
   transition={{
     opacity: { duration: 1 },
     y: {
-      duration: 4,
+      duration: 3,
       repeat: Infinity,
       ease: "easeInOut",
     },
