@@ -5,8 +5,9 @@ const menu = [
   { label: "Education", id: "education" },
   { label: "Certifications", id: "certifications" },
   { label: "Skills", id: "skills" },
+   { label: "Projects", id: "projects" },
   { label: "Experience", id: "experience" },
-  { label: "Projects", id: "projects" },
+ 
   { label: "Contact", id: "contact" }
 ];
 
