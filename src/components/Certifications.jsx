@@ -61,7 +61,12 @@ const certifications = [
     issuer: " Integra Connect",
     year: "2025",
   },
-  
+  ,
+    {
+    title: "Oracle Certified Professional – Java SE 17 Developer",
+    issuer: " Oracle",
+    year: "2026",
+  },
 ]
 
 
