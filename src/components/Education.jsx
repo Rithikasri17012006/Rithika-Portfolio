@@ -19,7 +19,7 @@ export default function Education() {
           <div>
             <span className="absolute -left-3 w-6 h-6 bg-purple-600 rounded-full"></span>
             <h3 className="text-xl font-semibold">
-              B.Tech – Computer Science and Design
+              B.E – Computer Science and Design
             </h3>
             <p className="text-gray-400 text-sm">2023 – 2027</p>
             <p className='mt-2 text-gray-400 text-sm'>CGPA: 8.15</p>
